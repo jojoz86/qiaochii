@@ -15,36 +15,38 @@
     <session id="-773558605">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bash_history" value="3" />
           <entry key="bash_profile" value="3" />
-          <entry key="gitconfig" value="1" />
+          <entry key="gitconfig" value="2" />
           <entry key="gitconﬁg" value="2" />
-          <entry key="php" value="5" />
+          <entry key="id_rsa" value="1" />
+          <entry key="php" value="9" />
+          <entry key="pub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="5" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PHP" value="9" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bash_history" value="6" />
-          <entry key="php" value="37" />
+          <entry key="php" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="37" />
+          <entry key="PHP" value="91" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -53,19 +55,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.bash_history">
+        <entry file="file://E:/hdwdm/c98/php/git/linux命令.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.bash_profile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -82,6 +75,8 @@
         <option value="$PROJECT_DIR$/aaa.php" />
         <option value="$USER_HOME$/.bash_history" />
         <option value="$USER_HOME$/.bash_profile" />
+        <option value="$PROJECT_DIR$/bade.php" />
+        <option value="E:/hdwdm/c98/php/git/linux命令.php" />
       </list>
     </option>
   </component>
@@ -103,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,18 +142,19 @@
       <option name="presentableId" value="Default" />
       <updated>1542007186650</updated>
       <workItem from="1542007188462" duration="6636000" />
-      <workItem from="1542015164586" duration="2118000" />
+      <workItem from="1542015164586" duration="9219000" />
+      <workItem from="1542029193738" duration="252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8754000" />
+    <option name="totallyTimeSpent" value="16107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,24 +198,17 @@
     <entry file="file://$PROJECT_DIR$/ree.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/hdwdm/c98/php/git/linux命令.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gitconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -230,10 +219,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.gitconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.bash_history">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
+        <state relative-caret-position="402">
           <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/hdwdm/c98/php/git/linux命令.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
